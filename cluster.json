@@ -1,0 +1,25 @@
+{
+    "__default__" :
+    {
+        "time" : "00:15:00",
+        "email" : "sailalitha.bollepalli@helsinki.fi",
+        "EmailNotice": "e",
+        "MaxMem": "2",
+        "queue" : "all.q"
+    },
+    "fastqc" :
+    {
+        "time" : "01:15:00"
+    },
+    "multiqc":
+    {
+        "time" : "1:00"
+    },
+   
+    "bwa_map":
+    {
+        "time" : "04:00:00",
+        "MaxMem": "11",
+        "-q": "highmem.q"
+    }
+}
