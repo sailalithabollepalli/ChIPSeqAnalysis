@@ -28,3 +28,16 @@ http://www.biologie.ens.fr/~mthomas/other/chip-seq-training/
 Practical Guidelines for the Comprehensive Analysis of ChIP-seq Data  
 http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003326
 
+## Next Steps
+1. phantom peaks
+2. ENCODE metrics
+3. macs2 peakcalling with different options eg: --nomodel, --broad
+4. differential binding analyses: 
+https://github.com/ying-w/chipseq-compare/tree/master/edgeR-DiffBind-DBChIP
+https://github.com/crazyhottommy/ChIP-seq-analysis/blob/master/part3.1_Differential_binding_DiffBind_lib_size.md
+DiffBind: http://bioconductor.org/packages/release/bioc/html/DiffBind.html
+chromswitch: https://bioconductor.org/packages/chromswitch
+https://academic.oup.com/bioinformatics/article/34/13/2286/4846890
+SCIDDO: https://github.com/ptrebert/sciddo
+https://www.biorxiv.org/content/early/2018/10/13/441766
+
