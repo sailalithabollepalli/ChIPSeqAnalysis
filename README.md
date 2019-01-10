@@ -9,7 +9,7 @@ Useful Resources:
 snakemake:  
 https://hpc-carpentry.github.io/hpc-python/11-snakemake-intro/
 
-snakemake + ChIP-seq: 
+snakemake + ChIP-seq:  
 https://snakemake.readthedocs.io/en/stable/tutorial/basics.html
 https://snakemake.readthedocs.io/en/stable/tutorial/advanced.html
 https://molb7621.github.io/workshop/Classes/snakemake-tutorial.html
