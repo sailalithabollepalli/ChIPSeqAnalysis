@@ -3,9 +3,7 @@ I have used Snakemake based pipeline to analyse ChIP-seq data.
 
 I have modified scripts from https://github.com/crazyhottommy/pyflow-ChIPseq to make snakefile run on the cluster at our facility.
 
- Below are the links to resources I found helpful.
-
-Useful Resources:
+Useful Resources:  
 snakemake:  
 https://hpc-carpentry.github.io/hpc-python/11-snakemake-intro/
 
