@@ -25,6 +25,11 @@ https://github.com/mforde84/ENCODE_TF_ChIP_pipeline
 https://www.ebi.ac.uk/training/online/course/ebi-next-generation-sequencing-practical-course/gene-regulation/chip-seq-analysis
 http://www.biologie.ens.fr/~mthomas/other/chip-seq-training/
 
+Scripts from Marzi et al:   
+https://epigenetics.essex.ac.uk/AD_H3K27ac/   
+https://epigenetics.essex.ac.uk/AD_H3K27ac/code/index.html
+
+
 Practical Guidelines for the Comprehensive Analysis of ChIP-seq Data  
 http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003326
 
